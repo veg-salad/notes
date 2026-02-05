@@ -1,4 +1,4 @@
-# C Programming & Computer Science Fundamentals
+# Harvard CS50 - Intro to Computer Science
 
 ---
 
