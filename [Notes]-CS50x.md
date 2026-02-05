@@ -1080,6 +1080,6 @@ int main(void)
 - Recursion: base case + recursive case
 - Structs: custom data types
 - Big O notation: algorithm efficiency analysis
-- Debugging:printf, debugger tools
+- Debugging: printf, debugger tools
 
 ---
